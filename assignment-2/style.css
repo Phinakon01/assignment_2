@@ -1,0 +1,8 @@
+body {
+    justify-content: center;
+    align-items: center;
+    background: url('./img/bg6.png') center center fixed no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
